@@ -1,4 +1,3 @@
-
 n = int(input("Enter a number: "))
 y = 0
 
